@@ -1,0 +1,4 @@
+#Sun May 21 22:02:22 EEST 2023
+base.0=E\:\\Games\\Test1\\TZ_24Play_20_05_2023\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
